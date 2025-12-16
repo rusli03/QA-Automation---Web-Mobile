@@ -1,5 +1,3 @@
-# QA-Automation
-Initial QA Automation - Web &amp; Mobile test take home 
 # QA Automation Engineer – Take Home Test
 
 ## Tech Stack
